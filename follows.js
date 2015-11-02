@@ -1,7 +1,7 @@
 (function ( $ ){
 
-	/*
-	EXAMPLE CONFIGURATION
+
+//	EXAMPLE CONFIGURATION
 
 		var defaultKey	= 'fje329iun52ngtuijo2f4jeun432A', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [61916,12425,94322], // Comma separated array of Xively Feed ID numbers
@@ -10,8 +10,8 @@
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '0A1922', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 0;
-	*/
-
+	
+	/*
 	var defaultKey		= '', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [], // Comma separated array of Xively Feed ID numbers
 		applicationName	= '', // Replaces Xively logo in the header
@@ -19,7 +19,7 @@
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 0; // To hide input form use value of 1, otherwise set to 0
-
+*/
 // Function Declarations
 
 	// URL Parameters
